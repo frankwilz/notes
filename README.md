@@ -332,8 +332,3 @@ Security
 • MongoDB connection uses secure configuration options
 • Input validation is performed on all API endpoints
 • Authentication middleware protects all note operations
-
-
-License
-
-This project is licensed under the ISC License.
